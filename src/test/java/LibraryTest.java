@@ -3,7 +3,12 @@
  */
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+/**
+ * 
+ * 
+ * @author glitt Jazmin Mtz
+ *
+ */
 public class LibraryTest {
     @Test public void testSomeLibraryMethod() {
         Library classUnderTest = new Library();
